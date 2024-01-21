@@ -12,4 +12,4 @@ substr_x = "Emma"
 count = str_x.count(substr_x)
 
 # print the number of times the substring appears in the given string
-print(count)
+print("The word Emma appeared", count, "times in the given string.")

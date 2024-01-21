@@ -8,8 +8,8 @@ str_x = "Emma is good developer. Emma is a writer"
 # write the substring
 substr_x = "Emma"
 
-print(str_x)
-print(substr_x)
 # count the number of times the substring appears in the given string
+count = str_x.count(substr_x)
 
 # print the number of times the substring appears in the given string
+print(count)
